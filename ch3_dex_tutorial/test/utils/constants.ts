@@ -1,0 +1,17 @@
+export const Tokens = {
+    WHLE: "0x15308179057A1d5e56C61a612b1EADfA5F669Aad",
+    FISH: "0xf7dF58081149F0F34b4E9EA64DE83E347f04d060",
+    WKLAY: "0x043c471bEe060e00A56CcD02c0Ca286808a5A436",
+}
+
+export const Contracts = {
+    FACTORY: "0x90B06a1B5920E45c5f0aC3D701728669527bF275",
+    CHEF: "0x5bc059C6fAC255702Ea697415f82e44c5ec3CB76",
+    ROUTER: "0x0D827eaDe12e5f296e3Dd0e08fc38ad990dC1142",
+
+    OWNER: "0xe6ffe66498badf7437daddea9fa22e88c7b4e073"
+}
+
+export default {
+    Tokens, Contracts
+}
